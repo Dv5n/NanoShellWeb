@@ -1,2 +1,4 @@
-# NanoShellWeb
-Simple NanoShell Website.
+# NanoShell Website
+The official NanoShell website.
+
+With two main colors: blue and white.
