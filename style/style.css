@@ -1,9 +1,21 @@
+body
+{
+	margin: 0;
+}
+
 .topbar
 {
 	width: 100%;
 	height: 50px;
-	color: #669edb;
+	background-color: #4681d9;
+	color: #ffe;
 	display: flex;
-	padding: 0 20px;
-	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+	padding-left: 8px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.text
+{
+	margin: 12px;
+	background-color: #ffe;
 }
